@@ -1,6 +1,0 @@
-**/node_modules/
-**/dist/
-pwa/.env
-api/.env
-.env
-api/tripapp2-b8d4f-firebase-adminsdk-sos8s-d53f4ab9c9.json

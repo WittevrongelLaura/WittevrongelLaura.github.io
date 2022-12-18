@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,F as a,a as e}from"./index.8c7fcc53.js";const c={setup(){return{}}},n=e("h1",null,"Success",-1),r=e("a",{href:"/templates"},"Return to templates shop",-1);function p(_,u,l,m,d,f){return s(),o(a,null,[n,r],64)}const i=t(c,[["render",p]]);export{i as default};

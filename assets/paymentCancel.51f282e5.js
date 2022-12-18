@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,F as n,a as e}from"./index.8c7fcc53.js";const o={setup(){return{}}},c=e("h1",null,"Cancelled",-1),r=e("a",{href:"/templates"},"Return to templates shop",-1);function l(p,_,u,d,m,f){return s(),a(n,null,[c,r],64)}const i=t(o,[["render",l]]);export{i as default};

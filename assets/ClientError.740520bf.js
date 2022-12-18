@@ -1,0 +1,1 @@
+import{L as e,_ as o,o as n,c as r}from"./index.8c7fcc53.js";const t=e({name:"ClientError"});function c(s,a,p,_,f,l){return n(),r("h1",null,"Not found")}const d=o(t,[["render",c]]);export{d as default};
