@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Tent-essentials",
+        "items":[
+            "Tent", 
+            "Groundsheet",
+            "Repair kit",
+            "Sleeping bag",
+            "Air mattress",
+            "Pillow",
+            "Pump",
+            "Head lamp",
+            "Lantern"
+
+        ]
+        
+    },
+    {
+        "name": "Cooking materials",
+        "items": [
+            "Cooking fire & gas cartridges",
+            "Fire stick or lighter",
+            "Matches",
+            "Pots & pans",
+            "Plates",
+            "Cutlery",
+            "Drinking bottle",
+            "Insulating bottle",
+            "Pocket knife",
+            "Trekking material",
+            "Basin",
+            "Soap",
+            "Towel",
+            "Barbecue",
+            "Table",
+            "Chairs",
+            "Drinking cup",
+            "Glasses"
+        ]
+    }, 
+    {
+        "name": "Clothing",
+        "items": [
+            "Therminal underwear",
+            "Socks & underwear",
+            "T-shirts",
+            "Pants",
+            "Jacket",
+            "Rain jacket",
+            "Gloves",
+            "Hat",
+            "Dresses",
+            "Skirts",
+            "Trekking pants",
+            "Fleece",
+            "Sun hat or cap",
+            "Sweater",
+            "Swimwear"
+        ]
+    },
+
+    {
+        "name": "Shoes",
+        "items": [
+            "Hiking boots",
+            "Hiking shoes",
+            "Sandals",
+            "Flip flops",
+            "Sneakers",
+            "Slippers",
+            "Spare laces"
+        ]
+    },
+
+    {
+        "name": "Toiletries",
+        "items": [
+            "Soap & shampoo",
+            "Toothbrush & toothpaste",
+            "Deodorant",
+            "Razor",
+            "Shaving cream",
+            "Hairbrush",
+            "Hair ties",
+            "Hair spray",
+            "Hair gel",
+            "Hair dryer",
+            "Toiletry bag",
+            "Travel towel",
+            "Storage systems",
+            "Clothesline",
+            "Insect repellent",
+            "First aid kit",
+            "Medicines",
+            "Mosquito net",
+            "Toilet paper",
+            "Tissues",
+            "Wet wipes",
+            "Hand gel"
+           
+        ]
+    },
+    {
+        "name": "Documents",
+        "items": [
+            "Identity card",
+            "Passport",
+            "Driving license",
+            "Insurance card",
+            "Credit card",
+            "Cash",
+            "Travel documents",
+            "Travel insurance",
+            "Travel guide",
+            "Maps",
+            "Notebook & pen"
+        ]
+    },
+
+    {
+        "name": "Miscellaneous",
+        "items": [
+            "Sunglasses",
+            "Sunscreen",
+            "Camera",
+            "Binoculars",
+            "Rain cover for backpack",
+            "Waterproof bag",
+            "Smartphone",
+            "Charger",
+            "Powerbank",
+            "Headphones",
+            "Earplugs",
+            "Watch",
+            "GPS",
+            "Compass",
+            "Bluetooth speaker",
+            "Reading book",
+            "Playing cards",
+            "Board games",
+            "Bicycle",
+            "Bicycle lock",
+            "waste bags",
+            "Anti theft lock",
+            "Sewing kit",
+            "Flashlight",
+            "Linen bag",
+            "Sleeping mask",
+            "Games for camping"
+        ]
+    }
+]
